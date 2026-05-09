@@ -1,0 +1,9 @@
+spring.application.name=server
+
+spring.darasource.url=jdbc:postgresql://localhost:5432/lily
+spring.datasource.username=[your_username]
+spring.datasource.password=[your_password]
+spring.datadsouece.driver-class-name=org.postgresql.Driver
+
+spring.sql.init.mode=always
+spring.jpa.hibernate.ddl-auto=none
